@@ -7,7 +7,7 @@
   - [Git setup](gitSetup.md)
   - [Connect to the internet - Full guide](windows/internet.md)
 
-\------------
+## Start
 
 Starting to work using our PCs?  
 Follow [Account and internet](windows/account.md) and [Git setup](gitSetup.md)
