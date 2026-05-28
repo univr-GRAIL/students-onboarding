@@ -1,4 +1,4 @@
-### Windows - Account and internet
+# Windows - Account and internet
 
 - With the help of an authorized person, create a new account on the PC
   - Create a local account only  
