@@ -7,7 +7,7 @@
   - **Password**: create a personal one
   - The account must be a standard user account - no admin
 - Log in to your new account
-- Connect to the internet (ethernet) using your GIA credentials - Need help? [Read here](windows/internet.md)
+- Connect to the internet (ethernet) using your GIA credentials - Need help? [Read here](internet.md)
 - Open File Explorer and navigate to the shared document folder:  
    C:\\Users\\Public\\Documents
   - Create a new folder, and name it your name and surname (e.g. "John Doe")
