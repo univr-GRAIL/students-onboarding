@@ -14,6 +14,6 @@
   - Right click on the folder -> Show more options
   - Create a new shortcut to desktop:  
      send to -> Desktop (create shortcut)  
-     ![send to desktop shortcut](image1.png){height=420}
+     <img src="image1.png" alt="shortcut to desktop" height="450">
   - When working, save all your data and your project inside this folder.  
      A shortcut to the folder has now been created on your desktop for easier access
