@@ -8,5 +8,6 @@
 		sudo apt update
 		sudo apt install git -y
 		```
-  -  [Install Git Lfs](https://git-lfs.com/).
+  - [Install Git Lfs](https://git-lfs.com/).
   - [Install Blender](https://www.blender.org/download/).
+  - [Install UnityHub](https://docs.unity.com/en-us/hub).
