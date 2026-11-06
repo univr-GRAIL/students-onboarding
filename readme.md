@@ -4,6 +4,7 @@
 
 - Windows
   - [Account and internet](windows/account.md)
+  - [Program installations](windows/install.md)
   - [Git setup](gitSetup.md)
   - [Connect to the internet - Full guide](windows/internet.md)
 
