@@ -1,5 +1,5 @@
 # Git setup
--NEW PROJECT
+- NEW PROJECT
    - The moment you start working on your project, upload it to our organization's GitHub  
       <https://github.com/univr-GRAIL>
      - Ask an authorized person to create a new repository in the aforementioned organization
@@ -8,8 +8,9 @@
    - Follow the instructions you'll find on the newly created repository.
      
       <img src="image2.png" alt="steps" height="400">
--CONNECT TO OUR PROJECTS
-   -Open your terminal in your preferred directory and run:
+- CONNECT TO OUR PROJECTS
+
+   - Open your terminal in your preferred directory and run:
    ```
          git clone https://github.com/univr-GRAIL/VirtualICEApp.git
          cd VirtualICEApp
