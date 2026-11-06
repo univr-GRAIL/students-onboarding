@@ -9,12 +9,13 @@
      
       <img src="image2.png" alt="steps" height="400">
 -CONNECT TO OUR PROJECTS
-```
-      git clone https://github.com/univr-GRAIL/VirtualICEApp.git
-      cd VirtualICEApp
-      git switch panels_upgrade
-      git lfs pull
-``` 
+   -Open your terminal in your preferred directory and run:
+   ```
+         git clone https://github.com/univr-GRAIL/VirtualICEApp.git
+         cd VirtualICEApp
+         git switch panels_upgrade
+         git lfs pull
+   ``` 
       
 Don't know how to set up and use git? 
 Follow the explanation below
