@@ -12,9 +12,9 @@
 
    - Open your terminal in your preferred directory and run:
    ```
-         git clone https://github.com/univr-GRAIL/VirtualICEApp.git
-         cd VirtualICEApp
-         git switch panels_upgrade
+         git clone https://github.com/univr-GRAIL/PROJECT_NAME.git
+         cd PROJECT_NAME
+         git switch BRANCH_NAME
          git lfs pull
    ``` 
       
