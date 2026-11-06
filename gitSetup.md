@@ -1,14 +1,15 @@
 # Git setup
 
-- The moment you start working on your project, upload it our organization's GitHub  
+- The moment you start working on your project, upload it to our organization's GitHub  
    <https://github.com/univr-GRAIL>
-  - Ask an authorized person to create a new repository on the aforementioned organization
+  - Ask an authorized person to create a new repository in the aforementioned organization
   - Ask them to give you access to the repository by telling them your GitHub email address - with **write** permissions
+  - Once you send your username, please check your email and accept the invitation.
 - Follow the instructions you'll find on the newly created repository.
   
    <img src="image2.png" alt="steps" height="400">
    
-Don't know how to setup and use git? 
+Don't know how to set up and use git? 
 Follow the explanation below
 
 ## How to
