@@ -1,14 +1,20 @@
 # Git setup
-
-- The moment you start working on your project, upload it to our organization's GitHub  
-   <https://github.com/univr-GRAIL>
-  - Ask an authorized person to create a new repository in the aforementioned organization
-  - Ask them to give you access to the repository by telling them your GitHub email address - with **write** permissions
-  - Once you send your username, please check your email and accept the invitation.
-- Follow the instructions you'll find on the newly created repository.
-  
-   <img src="image2.png" alt="steps" height="400">
-   
+-NEW PROJECT
+   - The moment you start working on your project, upload it to our organization's GitHub  
+      <https://github.com/univr-GRAIL>
+     - Ask an authorized person to create a new repository in the aforementioned organization
+     - Ask them to give you access to the repository by telling them your GitHub email address - with **write** permissions
+     - Once you send your username, please check your email and accept the invitation.
+   - Follow the instructions you'll find on the newly created repository.
+     
+      <img src="image2.png" alt="steps" height="400">
+-CONNECT TO OUR PROJECTS
+```   git clone https://github.com/univr-GRAIL/VirtualICEApp.git
+      cd VirtualICEApp
+      git switch panels_upgrade
+      git lfs pull
+``` 
+      
 Don't know how to set up and use git? 
 Follow the explanation below
 
