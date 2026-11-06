@@ -20,5 +20,7 @@ Follow [Git setup](gitSetup.md)
 - If you need to familiarize yourself with Unity, here are some excellent resources:
 
     -[The easiest tutorial to get hands-on with Unity](https://learn.unity.com/project/roll-a-ball)
+  
     -[The most comprehensive guide (in my opinion)](https://learn.unity.com/project/creator-kit-beginner-code?uv=2020.3)
+  
     -Unity's main learning hub: [Full of examples to help you understand its features](https://learn.unity.com/)
